@@ -29,4 +29,4 @@ Yapay Zeka, Büyük Dil Modelleri (LLM) ve RAG mimarileri üzerine çalışıyor
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,huggingface,git,vscode)](https://skillicons.dev)
 
 ---
-📫 **İletişim:** [LinkedIn Profil Linkin] | [E-posta Adresin]
+📫 **İletişim:** [[LinkedIn Profil Linkin](https://www.linkedin.com/in/mehmet-bozdemir-0104941a3/)] | [mehmetbozdemir21@gmail.com]
