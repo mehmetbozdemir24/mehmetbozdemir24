@@ -22,7 +22,7 @@ Yapay Zeka, Büyük Dil Modelleri (LLM) ve RAG mimarileri üzerine çalışıyor
 > * 🔗 [**Makaleyi Oku**](https://www.mdpi.com/2076-3417/16/2/586)
 
 > **Makale:** [Enhancing the Analysis of Rheological Behavior in Clinker-Aided Cementitious Systems Through Large Language Model-Based Synthetic Data Generation]
-> * **Dergi:** Materials (MDPI)- *Q2 Index
+> * **Dergi:** Materials (MDPI) - *Q2 Index*
 > * **Konu:** LLM, Sentetik Veri Üretimi ve Malzeme Bilimi
 > * 🔗 [**Makaleyi Oku**](https://www.mdpi.com/1996-1944/18/15/3579)
 
